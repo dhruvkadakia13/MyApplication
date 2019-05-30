@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/logoutMenu"
+        android:orderInCategory="100"
+        android:title="Logout"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:showAsAction="never">
+
+    </item>
+
+    <item
+        android:id="@+id/profileMenu"
+        android:orderInCategory="100"
+        android:title="Profile"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:showAsAction="never">
+
+    </item>
+</menu>
